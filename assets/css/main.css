@@ -1,0 +1,47 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+.portfolio-sections{
+
+    text-align: center;
+    padding: 50px 0 ;
+
+
+}
+
+p{
+    color:darkgray;
+}
+.heading-p{
+    margin-bottom: 64px;
+}
+
+h2{
+    margin-bottom: 16px;
+}
+
+.sub-section{
+    padding: 24px 24px;
+}
+.portfolio-section{
+    float: left;
+    width: calc(100% / 3);
+    padding:0px 12px;
+    margin-bottom: 24px ;
+
+}
+
+
+.last-section{
+    margin-right: 0;
+}
+
+img{
+    width: 100%;
+}
+
+.clearfix{
+    clear: both;
+}
